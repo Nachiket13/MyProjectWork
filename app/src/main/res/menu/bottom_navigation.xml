@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/nav_home"
+            android:icon="@drawable/home_icon"
+            android:title="Home"/>
+
+
+    <item android:id="@+id/nav_sell"
+        android:icon="@drawable/ic_selling"
+        android:title="Sell"/>
+    <item android:id="@+id/nav_exchange"
+        android:icon="@drawable/ic_exchange"
+        android:title="CEP"/>
+    <item android:id="@+id/nav_chat"
+        android:icon="@drawable/chat_icon"
+        android:title="Chats"/>
+    <item android:id="@+id/nav_explore"
+        android:icon="@drawable/folder_icon"
+        android:title="Explore"/>
+
+</menu>

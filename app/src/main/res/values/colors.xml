@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="LogoColor">#57B7E7</color>
+    <color name="Green">#009933</color>
+    <color name="LightBlue">#03DAC5</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="customIconcolor">#19F193</color>
+</resources>

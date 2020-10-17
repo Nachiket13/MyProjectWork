@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <menu xmlns:android="http://schemas.android.com/apk/res/android">
+        <item android:id="@+id/side_home"
+            android:title="home"
+            android:icon="@drawable/home_icon"/>
+        <item android:id="@+id/side_fav"
+            android:title="My Favourite"
+            android:icon="@drawable/ic_favorite_24px"/>
+        <item android:id="@+id/side_about"
+            android:title="About Us"
+            android:icon="@drawable/ic_info_24px"/>
+        <item android:id="@+id/side_cotactus"
+            android:title="Contact Us"
+            android:icon="@drawable/ic_contact_support_24px"/>
+        <item android:id="@+id/side_share"
+            android:title="home"
+            android:icon="@drawable/ic_share_24px"/>
+        <item android:id="@+id/side_policy"
+            android:title="Privacy &amp; Poilicy"
+            android:icon="@drawable/ic_policy_24px"/>
+        <item android:id="@+id/side_logout"
+            android:title="Logout"
+            android:icon="@drawable/ic_power_settings_new_24px"/>
+    </menu>
+</menu>
